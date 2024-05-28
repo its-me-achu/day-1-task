@@ -1,1 +1,3 @@
-console.log("hai achu");
+let message ="welcome all";
+console.log(message); 
+
